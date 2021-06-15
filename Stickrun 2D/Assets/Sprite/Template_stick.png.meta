@@ -1,0 +1,2948 @@
+fileFormatVersion: 2
+guid: 86201497fc0d13d41b4bd76b4ba02670
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8210199033225894952
+    second: Template_stick_0
+  - first:
+      213: -6533698684325023732
+    second: Template_stick_1
+  - first:
+      213: -1345975942221644788
+    second: Template_stick_2
+  - first:
+      213: -6351109068746174741
+    second: Template_stick_3
+  - first:
+      213: 7824431296704428872
+    second: Template_stick_4
+  - first:
+      213: -7936033749245653666
+    second: Template_stick_5
+  - first:
+      213: 212835513735577436
+    second: Template_stick_6
+  - first:
+      213: -7393513161672916070
+    second: Template_stick_7
+  - first:
+      213: 771789542343366837
+    second: Template_stick_8
+  - first:
+      213: -1176274494549945375
+    second: Template_stick_9
+  - first:
+      213: -5515777441914581958
+    second: Template_stick_10
+  - first:
+      213: -2788280293902054146
+    second: Template_stick_11
+  - first:
+      213: -6389347021666994893
+    second: Template_stick_12
+  - first:
+      213: 1174590570959753986
+    second: Template_stick_13
+  - first:
+      213: 2578331527628708823
+    second: Template_stick_14
+  - first:
+      213: -5054777095411064102
+    second: Template_stick_15
+  - first:
+      213: 5644537750067566562
+    second: Template_stick_16
+  - first:
+      213: -8741129825937384916
+    second: Template_stick_17
+  - first:
+      213: -6935788769633296367
+    second: Template_stick_18
+  - first:
+      213: 7379102908836949122
+    second: Template_stick_19
+  - first:
+      213: -1691219894593600918
+    second: Template_stick_20
+  - first:
+      213: -9039574076781761528
+    second: Template_stick_21
+  - first:
+      213: -612069785657528962
+    second: Template_stick_22
+  - first:
+      213: 2018138951165337439
+    second: Template_stick_23
+  - first:
+      213: 8954005692436553757
+    second: Template_stick_24
+  - first:
+      213: -97095338289056003
+    second: Template_stick_25
+  - first:
+      213: -8857762258453685347
+    second: Template_stick_26
+  - first:
+      213: 4301772210977946432
+    second: Template_stick_27
+  - first:
+      213: 5133115972858225633
+    second: Template_stick_28
+  - first:
+      213: -4561940124354371136
+    second: Template_stick_29
+  - first:
+      213: -2246314700577850396
+    second: Template_stick_30
+  - first:
+      213: 4323831947329619016
+    second: Template_stick_31
+  - first:
+      213: -8228117823405075866
+    second: Template_stick_32
+  - first:
+      213: -5422649762086523263
+    second: Template_stick_33
+  - first:
+      213: 1144106607247876211
+    second: Template_stick_34
+  - first:
+      213: -8350609581204641425
+    second: Template_stick_35
+  - first:
+      213: 788625923925640077
+    second: Template_stick_36
+  - first:
+      213: -3622919457367045986
+    second: Template_stick_37
+  - first:
+      213: -5953295883301546794
+    second: Template_stick_38
+  - first:
+      213: 8434499973372903580
+    second: Template_stick_39
+  - first:
+      213: -3891082648365590168
+    second: Template_stick_40
+  - first:
+      213: -5475820266275232353
+    second: Template_stick_41
+  - first:
+      213: 165825552897450929
+    second: Template_stick_42
+  - first:
+      213: -6725336195119350399
+    second: Template_stick_43
+  - first:
+      213: 8212721526718611855
+    second: Template_stick_44
+  - first:
+      213: 5787444072626588943
+    second: Template_stick_45
+  - first:
+      213: 1017229530063833177
+    second: Template_stick_46
+  - first:
+      213: -5007926355157468747
+    second: Template_stick_47
+  - first:
+      213: -411973264058797610
+    second: Template_stick_48
+  - first:
+      213: 3746398895283084894
+    second: Template_stick_49
+  - first:
+      213: -8430022887488169396
+    second: Template_stick_50
+  - first:
+      213: -5186359490426473801
+    second: Template_stick_51
+  - first:
+      213: 5915797050036545397
+    second: Template_stick_52
+  - first:
+      213: 8447551919243612178
+    second: Template_stick_53
+  - first:
+      213: 8771653916709966549
+    second: Template_stick_54
+  - first:
+      213: -3216343878589195800
+    second: Template_stick_55
+  - first:
+      213: 7175952747064171361
+    second: Template_stick_56
+  - first:
+      213: -4574961696670389780
+    second: Template_stick_57
+  - first:
+      213: 2997575118260070581
+    second: Template_stick_58
+  - first:
+      213: 440754754309182740
+    second: Template_stick_59
+  - first:
+      213: -5877243102347681131
+    second: Template_stick_60
+  - first:
+      213: 2844628180445757330
+    second: Template_stick_61
+  - first:
+      213: -8032224451450405469
+    second: Template_stick_62
+  - first:
+      213: -8212611808759733655
+    second: Template_stick_63
+  - first:
+      213: -6667840767414130795
+    second: Template_stick_64
+  - first:
+      213: 7690785321812165119
+    second: Template_stick_65
+  - first:
+      213: -3399422490518715599
+    second: Template_stick_66
+  - first:
+      213: 9208045533335080744
+    second: Template_stick_67
+  - first:
+      213: -2849576267931259334
+    second: Template_stick_68
+  - first:
+      213: -2506766700082643736
+    second: Template_stick_69
+  - first:
+      213: 5723751508160665212
+    second: Template_stick_70
+  - first:
+      213: 8632743857582083565
+    second: Template_stick_71
+  - first:
+      213: -2561137414160952065
+    second: Template_stick_72
+  - first:
+      213: -4361459981041746531
+    second: Template_stick_73
+  - first:
+      213: 549420686636093321
+    second: Template_stick_74
+  - first:
+      213: 6402378530268913672
+    second: Template_stick_75
+  - first:
+      213: -792720885859370181
+    second: Template_stick_76
+  - first:
+      213: -535156370035987335
+    second: Template_stick_77
+  - first:
+      213: -7687316035254947901
+    second: Template_stick_78
+  - first:
+      213: 454899976944217540
+    second: Template_stick_79
+  - first:
+      213: -8122722543439990935
+    second: Template_stick_80
+  - first:
+      213: 5512535577707234320
+    second: Template_stick_81
+  - first:
+      213: 6666686165281066828
+    second: Template_stick_82
+  - first:
+      213: 4875239188981219638
+    second: Template_stick_83
+  - first:
+      213: -8533047780796831333
+    second: Template_stick_84
+  - first:
+      213: 1169672379695433185
+    second: Template_stick_85
+  - first:
+      213: -3373537559810285541
+    second: Template_stick_86
+  - first:
+      213: 8453187092101948188
+    second: Template_stick_87
+  - first:
+      213: 8967322787610573596
+    second: Template_stick_88
+  - first:
+      213: -7417952071324698587
+    second: Template_stick_89
+  - first:
+      213: -1806097355707706615
+    second: Template_stick_90
+  - first:
+      213: -1305377141760901859
+    second: Template_stick_91
+  - first:
+      213: -3604494474351700704
+    second: Template_stick_92
+  - first:
+      213: -308196924098741517
+    second: Template_stick_93
+  - first:
+      213: 5125066139808667142
+    second: Template_stick_94
+  - first:
+      213: 2915825392015871316
+    second: Template_stick_95
+  - first:
+      213: 9031188623176184252
+    second: Template_stick_96
+  - first:
+      213: -4860854215943370683
+    second: Template_stick_97
+  - first:
+      213: 2668594134652810223
+    second: Template_stick_98
+  - first:
+      213: -7206826591753045040
+    second: Template_stick_99
+  - first:
+      213: 4359474511931613470
+    second: Template_stick_100
+  - first:
+      213: -4518479138128549180
+    second: Template_stick_101
+  - first:
+      213: 5512236632202308889
+    second: Template_stick_102
+  - first:
+      213: -9027143544996094684
+    second: Template_stick_103
+  - first:
+      213: -6363911687874964782
+    second: Template_stick_104
+  - first:
+      213: 2139413302910867546
+    second: Template_stick_105
+  - first:
+      213: 5144012307907119305
+    second: Template_stick_106
+  - first:
+      213: -9183807922852642453
+    second: Template_stick_107
+  - first:
+      213: 5852765097130678701
+    second: Template_stick_108
+  - first:
+      213: 6771320348658672944
+    second: Template_stick_109
+  - first:
+      213: -7786206106557518905
+    second: Template_stick_110
+  - first:
+      213: 26315523169826478
+    second: Template_stick_111
+  - first:
+      213: 5966229005743593610
+    second: Template_stick_112
+  - first:
+      213: 6470578176203922635
+    second: Template_stick_113
+  - first:
+      213: 6580302160292186678
+    second: Template_stick_114
+  - first:
+      213: -5739648970885936980
+    second: Template_stick_115
+  - first:
+      213: -201883243307344155
+    second: Template_stick_116
+  - first:
+      213: -8559100829205431292
+    second: Template_stick_117
+  - first:
+      213: -4759929343068870587
+    second: Template_stick_118
+  - first:
+      213: -414560595847239270
+    second: Template_stick_119
+  - first:
+      213: 272670786234380444
+    second: Template_stick_120
+  - first:
+      213: -2742860694404781721
+    second: Template_stick_121
+  - first:
+      213: -5988534391719929849
+    second: Template_stick_122
+  - first:
+      213: -3570340144539880715
+    second: Template_stick_123
+  - first:
+      213: -3185802206910394680
+    second: Template_stick_124
+  - first:
+      213: -7497454988767735300
+    second: Template_stick_125
+  - first:
+      213: 3695994433560837944
+    second: Template_stick_126
+  - first:
+      213: 4201579887686175779
+    second: Template_stick_127
+  - first:
+      213: 1323821158432294981
+    second: Template_stick_128
+  - first:
+      213: -5842538187952466162
+    second: Template_stick_129
+  - first:
+      213: -1595685462107606932
+    second: Template_stick_130
+  - first:
+      213: 2900408238771675140
+    second: Template_stick_131
+  - first:
+      213: 5523520915926229755
+    second: Template_stick_132
+  - first:
+      213: -1408813145921274009
+    second: Template_stick_133
+  - first:
+      213: -7716117234763198172
+    second: Template_stick_134
+  - first:
+      213: -7967732973625411107
+    second: Template_stick_135
+  - first:
+      213: -3473045127169256443
+    second: Template_stick_136
+  - first:
+      213: -6811839493488796465
+    second: Template_stick_137
+  - first:
+      213: -42019198286489535
+    second: Template_stick_138
+  - first:
+      213: 1582406064721672555
+    second: Template_stick_139
+  - first:
+      213: 5058005308081577196
+    second: Template_stick_140
+  - first:
+      213: 2989569704028139052
+    second: Template_stick_141
+  - first:
+      213: 3102449671127060873
+    second: Template_stick_142
+  - first:
+      213: -8234892361523001770
+    second: Template_stick_143
+  - first:
+      213: -4647825612268714601
+    second: Template_stick_144
+  - first:
+      213: 37948239962183159
+    second: Template_stick_145
+  - first:
+      213: -2647900343208095958
+    second: Template_stick_146
+  - first:
+      213: -1593770973563482493
+    second: Template_stick_147
+  - first:
+      213: 3630827299519662007
+    second: Template_stick_148
+  - first:
+      213: -7260463217972340139
+    second: Template_stick_149
+  - first:
+      213: 8033051451203387504
+    second: Template_stick_150
+  - first:
+      213: -4368472511461180651
+    second: Template_stick_151
+  - first:
+      213: -8883976648783790392
+    second: Template_stick_152
+  - first:
+      213: 992404473175459143
+    second: Template_stick_153
+  - first:
+      213: -6533955568723696737
+    second: Template_stick_154
+  - first:
+      213: 3888937144992694796
+    second: Template_stick_155
+  - first:
+      213: 5363912709466544515
+    second: Template_stick_156
+  - first:
+      213: 5833784295555586534
+    second: Template_stick_157
+  - first:
+      213: -8461787394149088240
+    second: Template_stick_158
+  - first:
+      213: -5267615593822438420
+    second: Template_stick_159
+  - first:
+      213: 6959691656879312471
+    second: Template_stick_160
+  - first:
+      213: 5481725020009773524
+    second: Template_stick_161
+  - first:
+      213: 4455012468359614380
+    second: Template_stick_162
+  - first:
+      213: -3710966264630300039
+    second: Template_stick_163
+  - first:
+      213: -8911752948400817054
+    second: Template_stick_164
+  - first:
+      213: 9160904163008257508
+    second: Template_stick_165
+  - first:
+      213: 3614354670132780672
+    second: Template_stick_166
+  - first:
+      213: 217375729143692027
+    second: Template_stick_167
+  - first:
+      213: 6208451356978176200
+    second: Template_stick_168
+  - first:
+      213: 4236984748232410392
+    second: Template_stick_169
+  - first:
+      213: 2906856347007105694
+    second: Template_stick_170
+  - first:
+      213: 501025475184683271
+    second: Template_stick_171
+  - first:
+      213: -8227217578769444455
+    second: Template_stick_172
+  - first:
+      213: -5657467440378287220
+    second: Template_stick_173
+  - first:
+      213: -5249221651898841145
+    second: Template_stick_174
+  - first:
+      213: 6351299832595697169
+    second: Template_stick_175
+  - first:
+      213: -698388131764672540
+    second: Template_stick_176
+  - first:
+      213: -8947952696574497211
+    second: Template_stick_177
+  - first:
+      213: -1626872900197990719
+    second: Template_stick_178
+  - first:
+      213: -8339201343790518678
+    second: Template_stick_179
+  - first:
+      213: 6162359694207921191
+    second: Template_stick_180
+  - first:
+      213: 3565462614471984639
+    second: Template_stick_181
+  - first:
+      213: 6138174022835675494
+    second: Template_stick_182
+  - first:
+      213: -8050450781004490764
+    second: Template_stick_183
+  - first:
+      213: 5114304089454615839
+    second: Template_stick_184
+  - first:
+      213: 5432145354001391728
+    second: Template_stick_185
+  - first:
+      213: -8533169324449393167
+    second: Template_stick_186
+  - first:
+      213: 3137083698434507342
+    second: Template_stick_187
+  - first:
+      213: -6095453048725476137
+    second: Template_stick_188
+  - first:
+      213: -7128672620236755848
+    second: Template_stick_189
+  - first:
+      213: -5774306883784071842
+    second: Template_stick_190
+  - first:
+      213: -1383956211111791079
+    second: Template_stick_191
+  - first:
+      213: -982615270034568421
+    second: Template_stick_192
+  - first:
+      213: -7342797011560279912
+    second: Template_stick_193
+  - first:
+      213: 4919651711951186673
+    second: Template_stick_194
+  - first:
+      213: -185932338555337583
+    second: Template_stick_195
+  - first:
+      213: -3088820354383664776
+    second: Template_stick_196
+  - first:
+      213: -8369454638316555922
+    second: Template_stick_197
+  - first:
+      213: 1367992226553243161
+    second: Template_stick_198
+  - first:
+      213: 3821256469404688512
+    second: Template_stick_199
+  - first:
+      213: -2407578674826338120
+    second: Template_stick_200
+  - first:
+      213: 3066892032178119811
+    second: Template_stick_201
+  - first:
+      213: -3090670680310437681
+    second: Template_stick_202
+  - first:
+      213: -5863089077546387980
+    second: Template_stick_203
+  - first:
+      213: -6222364133389591539
+    second: Template_stick_204
+  - first:
+      213: 5033040636479127440
+    second: Template_stick_205
+  - first:
+      213: -6469082658338768210
+    second: Template_stick_206
+  - first:
+      213: -8529037160345187949
+    second: Template_stick_207
+  - first:
+      213: 3195874743186962882
+    second: Template_stick_208
+  - first:
+      213: -8761274186305996507
+    second: Template_stick_209
+  - first:
+      213: 7095483362608452122
+    second: Template_stick_210
+  - first:
+      213: -1929002681581885849
+    second: Template_stick_211
+  - first:
+      213: -4656860345245184698
+    second: Template_stick_212
+  - first:
+      213: -7665850795915602779
+    second: Template_stick_213
+  - first:
+      213: -5244246704015398661
+    second: Template_stick_214
+  - first:
+      213: 7924737518833247861
+    second: Template_stick_215
+  - first:
+      213: 6683908922164786310
+    second: Template_stick_216
+  - first:
+      213: 968855155655338565
+    second: Template_stick_217
+  - first:
+      213: -818519701051024815
+    second: Template_stick_218
+  - first:
+      213: -585298604767974911
+    second: Template_stick_219
+  - first:
+      213: 2403242398659457642
+    second: Template_stick_220
+  - first:
+      213: 108457270760589012
+    second: Template_stick_221
+  - first:
+      213: -8440730169724013507
+    second: Template_stick_222
+  - first:
+      213: 6855593285542304209
+    second: Template_stick_223
+  - first:
+      213: 6608266919985892925
+    second: Template_stick_224
+  - first:
+      213: 8642399202036007343
+    second: Template_stick_225
+  - first:
+      213: -1070963434128683716
+    second: Template_stick_226
+  - first:
+      213: -5836336508851858493
+    second: Template_stick_227
+  - first:
+      213: 6926416836882039529
+    second: Template_stick_228
+  - first:
+      213: -2625936514752638270
+    second: Template_stick_229
+  - first:
+      213: -900231675638899060
+    second: Template_stick_230
+  - first:
+      213: -8065236965861937233
+    second: Template_stick_231
+  - first:
+      213: -5251426922574348060
+    second: Template_stick_232
+  - first:
+      213: -3884917015688268941
+    second: Template_stick_233
+  - first:
+      213: -6500026021437589215
+    second: Template_stick_234
+  - first:
+      213: 3450468846231496601
+    second: Template_stick_235
+  - first:
+      213: -5472989638404553594
+    second: Template_stick_236
+  - first:
+      213: -3586715839347187670
+    second: Template_stick_237
+  - first:
+      213: 6950565988063571909
+    second: Template_stick_238
+  - first:
+      213: -2097942622101902311
+    second: Template_stick_239
+  - first:
+      213: -4651464864377838636
+    second: Template_stick_240
+  - first:
+      213: -274026228408781182
+    second: Template_stick_241
+  - first:
+      213: 3887498079796943136
+    second: Template_stick_242
+  - first:
+      213: -5176124344594917259
+    second: Template_stick_243
+  - first:
+      213: 8349631186458149672
+    second: Template_stick_244
+  - first:
+      213: 2647846568795995451
+    second: Template_stick_245
+  - first:
+      213: 5374413389554641438
+    second: Template_stick_246
+  - first:
+      213: 7136429589333984673
+    second: Template_stick_247
+  - first:
+      213: -7435165207972739284
+    second: Template_stick_248
+  - first:
+      213: -3665852246832185545
+    second: Template_stick_249
+  - first:
+      213: -7844030022100473708
+    second: Template_stick_250
+  - first:
+      213: 2956996106521252709
+    second: Template_stick_251
+  - first:
+      213: -2310135078895443414
+    second: Template_stick_252
+  - first:
+      213: 4515366193149203782
+    second: Template_stick_253
+  - first:
+      213: 3549238330714875393
+    second: Template_stick_254
+  - first:
+      213: -2147378927072497468
+    second: Template_stick_255
+  - first:
+      213: 8934042098920132098
+    second: Template_stick_256
+  - first:
+      213: -3535732065771386423
+    second: Template_stick_257
+  - first:
+      213: 4696018659700054362
+    second: Template_stick_258
+  - first:
+      213: 8246267253067732588
+    second: Template_stick_259
+  - first:
+      213: -1714546081502909832
+    second: Template_stick_260
+  - first:
+      213: 4425051658140153671
+    second: Template_stick_261
+  - first:
+      213: -4278970695743590043
+    second: Template_stick_262
+  - first:
+      213: 2514888928417711200
+    second: Template_stick_263
+  - first:
+      213: 7235124334541534394
+    second: Template_stick_264
+  - first:
+      213: -1718008867719805863
+    second: Template_stick_265
+  - first:
+      213: 1417149709064294553
+    second: Template_stick_266
+  - first:
+      213: -6982222547952004723
+    second: Template_stick_267
+  - first:
+      213: -1494836428676371460
+    second: Template_stick_268
+  - first:
+      213: -4613867484513648553
+    second: Template_stick_269
+  - first:
+      213: 7080321156471172227
+    second: Template_stick_270
+  - first:
+      213: 1360111857218895465
+    second: Template_stick_271
+  - first:
+      213: -3259949060406270790
+    second: Template_stick_272
+  - first:
+      213: -1761430042158905318
+    second: Template_stick_273
+  - first:
+      213: -7014929335478706065
+    second: Template_stick_274
+  - first:
+      213: 4649037419938480677
+    second: Template_stick_275
+  - first:
+      213: -6676687885416717928
+    second: Template_stick_276
+  - first:
+      213: 7971533866774900545
+    second: Template_stick_277
+  - first:
+      213: 7429432034372603987
+    second: Template_stick_278
+  - first:
+      213: -4058250732531657858
+    second: Template_stick_279
+  - first:
+      213: -7894063524856688711
+    second: Template_stick_280
+  - first:
+      213: 5981015905022166798
+    second: Template_stick_281
+  - first:
+      213: 1597889837459295907
+    second: Template_stick_282
+  - first:
+      213: 6573719210991892847
+    second: Template_stick_283
+  - first:
+      213: 2198252124604922393
+    second: Template_stick_284
+  - first:
+      213: 5978145186009762072
+    second: Template_stick_285
+  - first:
+      213: 598676748922931321
+    second: Template_stick_286
+  - first:
+      213: -6067516204712806417
+    second: Template_stick_287
+  - first:
+      213: -7766946788308633333
+    second: Template_stick_288
+  - first:
+      213: 4510478200455043071
+    second: Template_stick_289
+  - first:
+      213: 7121574987029462107
+    second: Template_stick_290
+  - first:
+      213: 6451112420401201184
+    second: Template_stick_291
+  - first:
+      213: 4166605368881642250
+    second: Template_stick_292
+  - first:
+      213: -3850795711506549471
+    second: Template_stick_293
+  - first:
+      213: -7315178360158381482
+    second: Template_stick_294
+  - first:
+      213: -5534589166816892671
+    second: Template_stick_295
+  - first:
+      213: 1019282305826755747
+    second: Template_stick_296
+  - first:
+      213: 4857933508722955151
+    second: Template_stick_297
+  - first:
+      213: 7907895706406177806
+    second: Template_stick_298
+  - first:
+      213: -6489366101776264426
+    second: Template_stick_299
+  - first:
+      213: 1668248804756814832
+    second: Template_stick_300
+  - first:
+      213: 1604114192640230480
+    second: Template_stick_301
+  - first:
+      213: 8369732195338147108
+    second: Template_stick_302
+  - first:
+      213: -7242051324075915752
+    second: Template_stick_303
+  - first:
+      213: -1156809344791837554
+    second: Template_stick_304
+  - first:
+      213: 3366743169394839201
+    second: Template_stick_305
+  - first:
+      213: -4366669805665378768
+    second: Template_stick_306
+  - first:
+      213: -3142253799675775989
+    second: Template_stick_307
+  - first:
+      213: -7349616005715171222
+    second: Template_stick_308
+  - first:
+      213: -2977577696138855801
+    second: Template_stick_309
+  - first:
+      213: 8165435546818499186
+    second: Template_stick_310
+  - first:
+      213: -3225008856846701558
+    second: Template_stick_311
+  - first:
+      213: 6452989246210130744
+    second: Template_stick_312
+  - first:
+      213: 2405879897580460435
+    second: Template_stick_313
+  - first:
+      213: -6346970041904502459
+    second: Template_stick_314
+  - first:
+      213: 5590311172319146888
+    second: Template_stick_315
+  - first:
+      213: 7149094386151082793
+    second: Template_stick_316
+  - first:
+      213: 3926121397994420297
+    second: Template_stick_317
+  - first:
+      213: 7531978772448111144
+    second: Template_stick_318
+  - first:
+      213: 776049185679761272
+    second: Template_stick_319
+  - first:
+      213: -8230802967526189045
+    second: Template_stick_320
+  - first:
+      213: -6022283470276839207
+    second: Template_stick_321
+  - first:
+      213: -3269903209041648467
+    second: Template_stick_322
+  - first:
+      213: 2420944833368811209
+    second: Template_stick_323
+  - first:
+      213: 21053290923810927
+    second: Template_stick_324
+  - first:
+      213: 7946398414678654117
+    second: Template_stick_325
+  - first:
+      213: 4246482527632602426
+    second: Template_stick_326
+  - first:
+      213: -3566968401050491876
+    second: Template_stick_327
+  - first:
+      213: -6084431420776497848
+    second: Template_stick_328
+  - first:
+      213: 5767285997207466190
+    second: Template_stick_329
+  - first:
+      213: -6641463622482391296
+    second: Template_stick_330
+  - first:
+      213: 8102567477464524709
+    second: Template_stick_331
+  - first:
+      213: 6392217527549857936
+    second: Template_stick_332
+  - first:
+      213: -4808336890606090572
+    second: Template_stick_333
+  - first:
+      213: 8144375165090187060
+    second: Template_stick_334
+  - first:
+      213: 5850322910123870405
+    second: Template_stick_335
+  - first:
+      213: 2015189726160878471
+    second: Template_stick_336
+  - first:
+      213: 865171932052424403
+    second: Template_stick_337
+  - first:
+      213: -2795681192026084836
+    second: Template_stick_338
+  - first:
+      213: 6885905581864643812
+    second: Template_stick_339
+  - first:
+      213: -2692607921156012280
+    second: Template_stick_340
+  - first:
+      213: -3512143970125173772
+    second: Template_stick_341
+  - first:
+      213: 431495738237772210
+    second: Template_stick_342
+  - first:
+      213: -4650382631443268313
+    second: Template_stick_343
+  - first:
+      213: -7645893494068990216
+    second: Template_stick_344
+  - first:
+      213: -2828906938253852561
+    second: Template_stick_345
+  - first:
+      213: -2713333599078215667
+    second: Template_stick_346
+  - first:
+      213: -5114924202504834109
+    second: Template_stick_347
+  - first:
+      213: -3355547996962251671
+    second: Template_stick_348
+  - first:
+      213: -3923283950382354145
+    second: Template_stick_349
+  - first:
+      213: 5352485458018696002
+    second: Template_stick_350
+  - first:
+      213: 9063180536741107249
+    second: Template_stick_351
+  - first:
+      213: -4939068862221285796
+    second: Template_stick_352
+  - first:
+      213: 1267617261357303682
+    second: Template_stick_353
+  - first:
+      213: 9211475291074790255
+    second: Template_stick_354
+  - first:
+      213: 3166900909319883264
+    second: Template_stick_355
+  - first:
+      213: 5152733654565462555
+    second: Template_stick_356
+  - first:
+      213: -6801933326706363460
+    second: Template_stick_357
+  - first:
+      213: -3324928291794851201
+    second: Template_stick_358
+  - first:
+      213: -9158830776437142376
+    second: Template_stick_359
+  - first:
+      213: 4593943435545347609
+    second: Template_stick_360
+  - first:
+      213: 4984317709208054769
+    second: Template_stick_361
+  - first:
+      213: 5556442525661114565
+    second: Template_stick_362
+  - first:
+      213: 6564217531064964982
+    second: Template_stick_363
+  - first:
+      213: 7944156336973878618
+    second: Template_stick_364
+  - first:
+      213: 1133234397248204304
+    second: Template_stick_365
+  - first:
+      213: 4758191969815857582
+    second: Template_stick_366
+  - first:
+      213: 7851424624671833563
+    second: Template_stick_367
+  - first:
+      213: 2319127174437584914
+    second: Template_stick_368
+  - first:
+      213: 7223332253602325285
+    second: Template_stick_369
+  - first:
+      213: 8238580579569149116
+    second: Template_stick_370
+  - first:
+      213: 3892699204478380107
+    second: Template_stick_371
+  - first:
+      213: -8663217260731137411
+    second: Template_stick_372
+  - first:
+      213: -1384967687779471470
+    second: Template_stick_373
+  - first:
+      213: -2374371378605723737
+    second: Template_stick_374
+  - first:
+      213: -9086451528558372043
+    second: Template_stick_375
+  - first:
+      213: 5839484439540958082
+    second: Template_stick_376
+  - first:
+      213: -1442757666066141866
+    second: Template_stick_377
+  - first:
+      213: 3296565438245212840
+    second: Template_stick_378
+  - first:
+      213: 8707513627863273664
+    second: Template_stick_379
+  - first:
+      213: 8130815667840515548
+    second: Template_stick_380
+  - first:
+      213: -5396109686696548670
+    second: Template_stick_381
+  - first:
+      213: 5005817152995663526
+    second: Template_stick_382
+  - first:
+      213: 6951345598032652955
+    second: Template_stick_383
+  - first:
+      213: 7939199904720859880
+    second: Template_stick_384
+  - first:
+      213: -6355494385564253676
+    second: Template_stick_385
+  - first:
+      213: 3703966244810161357
+    second: Template_stick_386
+  - first:
+      213: 988977152768973150
+    second: Template_stick_387
+  - first:
+      213: -3298171551457420956
+    second: Template_stick_388
+  - first:
+      213: 3116447484463310895
+    second: Template_stick_389
+  - first:
+      213: -8689326591761085647
+    second: Template_stick_390
+  - first:
+      213: 307721332392081632
+    second: Template_stick_391
+  - first:
+      213: 1599589963906329936
+    second: Template_stick_392
+  - first:
+      213: -3641766034726929526
+    second: Template_stick_393
+  - first:
+      213: 2977119158956144196
+    second: Template_stick_394
+  - first:
+      213: 8780057085622335174
+    second: Template_stick_395
+  - first:
+      213: -4510866592718865416
+    second: Template_stick_396
+  - first:
+      213: -9148865098182146334
+    second: Template_stick_397
+  - first:
+      213: -3522332365303341485
+    second: Template_stick_398
+  - first:
+      213: -6225748174720595329
+    second: Template_stick_399
+  - first:
+      213: -2749897755607587210
+    second: Template_stick_400
+  - first:
+      213: -2069198646676150461
+    second: Template_stick_401
+  - first:
+      213: 9032210942769662637
+    second: Template_stick_402
+  - first:
+      213: -7048839596899758682
+    second: Template_stick_403
+  - first:
+      213: -2923907550769023900
+    second: Template_stick_404
+  - first:
+      213: 7585605151579695064
+    second: Template_stick_405
+  - first:
+      213: -6229653944383392559
+    second: Template_stick_406
+  - first:
+      213: -4292464743930278858
+    second: Template_stick_407
+  - first:
+      213: 4001923914321508095
+    second: Template_stick_408
+  - first:
+      213: 7335635649126977249
+    second: Template_stick_409
+  - first:
+      213: 7370301853598544762
+    second: Template_stick_410
+  - first:
+      213: 1916138981974744857
+    second: Template_stick_411
+  - first:
+      213: -8477289812486663437
+    second: Template_stick_412
+  - first:
+      213: -4684419559497037786
+    second: Template_stick_413
+  - first:
+      213: -2318944151006039978
+    second: Template_stick_414
+  - first:
+      213: -3285485998707498652
+    second: Template_stick_415
+  - first:
+      213: -3820409001370025873
+    second: Template_stick_416
+  - first:
+      213: -9212011799834310908
+    second: Template_stick_417
+  - first:
+      213: -6242172372537745365
+    second: Template_stick_418
+  - first:
+      213: 2745095243442927195
+    second: Template_stick_419
+  - first:
+      213: 1254817050180909726
+    second: Template_stick_420
+  - first:
+      213: 7829718923616597260
+    second: Template_stick_421
+  - first:
+      213: 7438306807711543203
+    second: Template_stick_422
+  - first:
+      213: -2208532790492698699
+    second: Template_stick_423
+  - first:
+      213: 1515174482981305813
+    second: Template_stick_424
+  - first:
+      213: 73431289927633537
+    second: Template_stick_425
+  - first:
+      213: -467386378212565278
+    second: Template_stick_426
+  - first:
+      213: -531466056535136859
+    second: Template_stick_427
+  - first:
+      213: -4608874906859444086
+    second: Template_stick_428
+  - first:
+      213: 1728378525697296750
+    second: Template_stick_429
+  - first:
+      213: -7975387551033418819
+    second: Template_stick_430
+  - first:
+      213: -2962602396535755725
+    second: Template_stick_431
+  - first:
+      213: 5698809983628342535
+    second: Template_stick_432
+  - first:
+      213: -1228478891501375707
+    second: Template_stick_433
+  - first:
+      213: 2982029306927614248
+    second: Template_stick_434
+  - first:
+      213: 5402182063619371235
+    second: Template_stick_435
+  - first:
+      213: -4944903405076053491
+    second: Template_stick_436
+  - first:
+      213: 4367386274345588019
+    second: Template_stick_437
+  - first:
+      213: 4636602794943618806
+    second: Template_stick_438
+  - first:
+      213: -9060175167297222338
+    second: Template_stick_439
+  - first:
+      213: 9131859690342459315
+    second: Template_stick_440
+  - first:
+      213: 4989874101908006042
+    second: Template_stick_441
+  - first:
+      213: -5836051018164038185
+    second: Template_stick_442
+  - first:
+      213: -338435083332253050
+    second: Template_stick_443
+  - first:
+      213: -187212898109720268
+    second: Template_stick_444
+  - first:
+      213: -7678292585341171727
+    second: Template_stick_445
+  - first:
+      213: -6543771750220333619
+    second: Template_stick_446
+  - first:
+      213: -2651091392823559675
+    second: Template_stick_447
+  - first:
+      213: -6073353680274018900
+    second: Template_stick_448
+  - first:
+      213: 37853050303330944
+    second: Template_stick_449
+  - first:
+      213: -8111437277968307588
+    second: Template_stick_450
+  - first:
+      213: 3333164062732879034
+    second: Template_stick_451
+  - first:
+      213: 1103849008335790907
+    second: Template_stick_452
+  - first:
+      213: 4784107794465525554
+    second: Template_stick_453
+  - first:
+      213: 3656616785942862423
+    second: Template_stick_454
+  - first:
+      213: 1046407677193654230
+    second: Template_stick_455
+  - first:
+      213: -5024367292323006335
+    second: Template_stick_456
+  - first:
+      213: 7239537143101448031
+    second: Template_stick_457
+  - first:
+      213: 3965484661125281255
+    second: Template_stick_458
+  - first:
+      213: 4237266407337195411
+    second: Template_stick_459
+  - first:
+      213: -1877733388367022185
+    second: Template_stick_460
+  - first:
+      213: -3670475532881478113
+    second: Template_stick_461
+  - first:
+      213: -4397538130346004494
+    second: Template_stick_462
+  - first:
+      213: 7294340103849424906
+    second: Template_stick_463
+  - first:
+      213: -7270764602635163083
+    second: Template_stick_464
+  - first:
+      213: 4475875914991608353
+    second: Template_stick_465
+  - first:
+      213: 1520158840935968748
+    second: Template_stick_466
+  - first:
+      213: 2137707313952186980
+    second: Template_stick_467
+  - first:
+      213: 3199469489572317684
+    second: Template_stick_468
+  - first:
+      213: 5043937112482247748
+    second: Template_stick_469
+  - first:
+      213: -3572445649819992026
+    second: Template_stick_470
+  - first:
+      213: 4367135855665788987
+    second: Template_stick_471
+  - first:
+      213: 3120360557617879580
+    second: Template_stick_472
+  - first:
+      213: -7969585768239915539
+    second: Template_stick_473
+  - first:
+      213: 837029413597120016
+    second: Template_stick_474
+  - first:
+      213: -3133856448304157741
+    second: Template_stick_475
+  - first:
+      213: 8822980066101216747
+    second: Template_stick_476
+  - first:
+      213: 2536576769866889393
+    second: Template_stick_477
+  - first:
+      213: 1601796213633424137
+    second: Template_stick_478
+  - first:
+      213: -8190926046902073733
+    second: Template_stick_479
+  - first:
+      213: 6999910626877048777
+    second: Template_stick_480
+  - first:
+      213: -7539359909679402516
+    second: Template_stick_481
+  - first:
+      213: 2917841719574752620
+    second: Template_stick_482
+  - first:
+      213: -1956184456000319497
+    second: Template_stick_483
+  - first:
+      213: -4923665214794172349
+    second: Template_stick_484
+  - first:
+      213: 6415261127667502890
+    second: Template_stick_485
+  - first:
+      213: 3890658883900622046
+    second: Template_stick_486
+  - first:
+      213: -7008233712542996690
+    second: Template_stick_487
+  - first:
+      213: 1003291395271344229
+    second: Template_stick_488
+  - first:
+      213: -4966358686299936172
+    second: Template_stick_489
+  - first:
+      213: 8690785393339562271
+    second: Template_stick_490
+  - first:
+      213: 3930889052656457895
+    second: Template_stick_491
+  - first:
+      213: -8344352381655483408
+    second: Template_stick_492
+  - first:
+      213: 8490018614474908151
+    second: Template_stick_493
+  - first:
+      213: -323052230957850928
+    second: Template_stick_494
+  - first:
+      213: 3367724555489976590
+    second: Template_stick_495
+  - first:
+      213: 3570263662877179396
+    second: Template_stick_496
+  - first:
+      213: 436458021679193096
+    second: Template_stick_497
+  - first:
+      213: 1419213029405489621
+    second: Template_stick_498
+  - first:
+      213: -6723101377877697077
+    second: Template_stick_499
+  - first:
+      213: -8211432012252043426
+    second: Template_stick_500
+  - first:
+      213: 1726355854126893908
+    second: Template_stick_501
+  - first:
+      213: -2011979934141946065
+    second: Template_stick_502
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Template_stick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5fae658c70f170800000000000000
+      internalID: 8210199033225894952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00be53e9a3a355a0800000000000000
+      internalID: -6533698684325023732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c38a70302225de0800000000000000
+      internalID: -1345975942221644788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee4f9b93f35cd7a0800000000000000
+      internalID: -6351109068746174741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b34890fc6f59c60800000000000000
+      internalID: 7824431296704428872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d83ba1a5b8dd190800000000000000
+      internalID: -7936033749245653666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ffbc7a5c424f200800000000000000
+      internalID: 212835513735577436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938f44b3f6f46990800000000000000
+      internalID: -7393513161672916070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8dcb8ef72f5ba00800000000000000
+      internalID: 771789542343366837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e39ff154980dafe0800000000000000
+      internalID: -1176274494549945375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c8192f3a50473b0800000000000000
+      internalID: -5515777441914581958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc0fbb78d90e49d0800000000000000
+      internalID: -2788280293902054146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335b6da6cba7457a0800000000000000
+      internalID: -6389347021666994893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203549aa6ebfc4010800000000000000
+      internalID: 1174590570959753986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbdf712dd218c320800000000000000
+      internalID: 2578331527628708823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad22e395303d9d9b0800000000000000
+      internalID: -5054777095411064102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e75f0a7d2d655e40800000000000000
+      internalID: 5644537750067566562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a1e6d5cb441b680800000000000000
+      internalID: -8741129825937384916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1102dd48cd02fbf90800000000000000
+      internalID: -6935788769633296367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c274adff6d76660800000000000000
+      internalID: 7379102908836949122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62cca167749788e0800000000000000
+      internalID: -1691219894593600918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ce798554bfc8280800000000000000
+      internalID: -9039574076781761528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d2228d5cd7187f0800000000000000
+      internalID: -612069785657528962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fd69bfeaed10c10800000000000000
+      internalID: 2018138951165337439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a186acb4034c70800000000000000
+      internalID: 8954005692436553757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df63fe3ed4c07aef0800000000000000
+      internalID: -97095338289056003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b91080828e21580800000000000000
+      internalID: -8857762258453685347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bbcfbb807f2bb30800000000000000
+      internalID: 4301772210977946432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e32919e7cd7c3740800000000000000
+      internalID: 5133115972858225633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1a14980abb0b0c0800000000000000
+      internalID: -4561940124354371136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb15a6eac73d0e0800000000000000
+      internalID: -2246314700577850396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84441195f36510c30800000000000000
+      internalID: 4323831947329619016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66251ed1f6adfcd80800000000000000
+      internalID: -8228117823405075866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee97595c0eeb4b0800000000000000
+      internalID: -5422649762086523263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ef26c5eea0ef00800000000000000
+      internalID: 1144106607247876211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e25e44dcac1c80800000000000000
+      internalID: -8350609581204641425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8380487913c1fa00800000000000000
+      internalID: 788625923925640077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9849c5d2fdc8bdc0800000000000000
+      internalID: -3622919457367045986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d41401afe4a16da0800000000000000
+      internalID: -5953295883301546794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c900fe2b90d5d0570800000000000000
+      internalID: 8434499973372903580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8699b7872f8100ac0800000000000000
+      internalID: -3891082648365590168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a7ceda7af104b0800000000000000
+      internalID: -5475820266275232353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3a22736712d4200800000000000000
+      internalID: 165825552897450929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d75d6ec5ecaa2a0800000000000000
+      internalID: -6725336195119350399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81444737b279f170800000000000000
+      internalID: 8212721526718611855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d095a88b1215050800000000000000
+      internalID: 5787444072626588943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9580e7a3edced1e00800000000000000
+      internalID: 1017229530063833177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9b58b5385408ab0800000000000000
+      internalID: -5007926355157468747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d131d2cf70684af0800000000000000
+      internalID: -411973264058797610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e934c22f1edf330800000000000000
+      internalID: 3746398895283084894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4adad619da820b80800000000000000
+      internalID: -8430022887488169396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b277af95895608b0800000000000000
+      internalID: -5186359490426473801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5776bb2e212291250800000000000000
+      internalID: 5915797050036545397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105f28a6bbbb3570800000000000000
+      internalID: 8447551919243612178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2592653cc2bb970800000000000000
+      internalID: 8771653916709966549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9503988404d53d0800000000000000
+      internalID: -3216343878589195800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b9fbde00b169360800000000000000
+      internalID: 7175952747064171361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce961f873987280c0800000000000000
+      internalID: -4574961696670389780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e07f20b6899920800000000000000
+      internalID: 2997575118260070581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415d9a32d10ed1600800000000000000
+      internalID: 440754754309182740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a3f19986df6ea0800000000000000
+      internalID: -5877243102347681131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff88532462a7720800000000000000
+      internalID: 2844628180445757330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template_stick_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad771ffa6ec78090800000000000000
+      internalID: -8032224451450405469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
